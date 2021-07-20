@@ -19,7 +19,9 @@ query = <<SPARQL
     ?held ps:P39 ?positionItem ; pq:P580 ?start .
     FILTER NOT EXISTS { ?held pq:P582 [] }
 
-    OPTIONAL { ?item rdfs:label ?name FILTER(LANG(?name) = "en") }
+    OPTIONAL { ?held prov:wasDerivedFrom/pr:P1810 ?sourceName }
+    OPTIONAL { ?item rdfs:label ?enLabel FILTER(LANG(?enLabel) = "en") }
+    BIND(COALESCE(?sourceName, ?enLabel) AS ?name)
 
     OPTIONAL { ?positionItem wdt:P1705 ?nativeLabel }
     OPTIONAL { ?positionItem rdfs:label ?positionLabel FILTER(LANG(?positionLabel) = "en") }
