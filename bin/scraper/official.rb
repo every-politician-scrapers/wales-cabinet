@@ -12,15 +12,20 @@ class MemberList
       noko.css('a').text.tidy.gsub(/^Rt Hon /, '').gsub(/ MS$/, '')
     end
 
-    field :position do
-      noko.css('.subtitle').text.tidy
+    field :positions do
+      noko.css('.subtitle').text.tidy.split(', and ')
     end
   end
 
   # The page listing all the members
   class Members < Scraped::HTML
+    # Generate separate entries for combinations such as
+    # "Deputy Minister for Arts and Sport, and Chief Whip"
     field :members do
-      member_container.map { |member| fragment(member => Member).to_h }
+      member_container.flat_map do |member|
+        data = fragment(member => Member).to_h
+        data.delete(:positions).map { |posn| data.merge(position: posn) }
+      end
     end
 
     private
