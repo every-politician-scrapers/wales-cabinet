@@ -1,5 +1,6 @@
 {
     "cabinet": "Q106874092",
     "lang":    "en",
-    "agent":   "every-politican-scrapers/wales-cabinet"
+    "agent":   "every-politican-scrapers/wales-cabinet",
+    "source_match": "gov.wales/cabinet-members-and-ministers"
 }
