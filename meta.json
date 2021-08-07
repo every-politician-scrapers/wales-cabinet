@@ -1,24 +1,24 @@
 {
     "jurisdiction": {
-      "name": "Scotland",
-      "id": "Q22"
+      "name": "Wales",
+      "id": "Q25"
     },
     "country": {
       "name": "UK",
       "id": "Q145"
     },
     "cabinet": {
-      "id": "Q106906168",
-      "start": "2021-05-20",
-      "parent": "Q32859621"
+      "id": "Q106874092",
+      "start": "2021-05-13",
+      "parent": "Q32859630"
     },
     "source": {
-        "url":   "https://www.gov.scot/about/who-runs-government/cabinet-and-ministers/",
-        "title": "Cabinet and Ministers - gov.scot",
+        "url":   "https://gov.wales/cabinet-members-and-ministers",
+        "title": "Cabinet members and ministers | GOV.WALES",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/scotland-cabinet"
+    "agent": "every-politican-scrapers/wales-cabinet"
 }
