@@ -1,0 +1,460 @@
+{
+  "title": "Rebecca Evans (politician)",
+  "pageID": 36851699,
+  "categories": [
+    "1976 births",
+    "Living people",
+    "People from Bridgend",
+    "Alumni of the University of Leeds",
+    "Alumni of Sidney Sussex College, Cambridge",
+    "Welsh Labour members of the Senedd",
+    "Wales AMs 2011–2016",
+    "Wales MSs 2016–2021",
+    "Wales MSs 2021–2026",
+    "Ministers for Finance of Wales",
+    "Female finance ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rebecca Mary Evans (born 2 August 1976) is a Welsh Labour and Co-operative politician serving as Minister for Finance since 2018 and Minister for Local Government since 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Welsh Labour"
+                },
+                {
+                  "text": "Co-operative",
+                  "type": "internal",
+                  "page": "Co-operative Party"
+                },
+                {
+                  "text": "Minister for Finance",
+                  "type": "internal",
+                  "page": "Minister for Finance (Wales)"
+                },
+                {
+                  "text": "Minister for Local Government",
+                  "type": "internal",
+                  "page": "Minister for Local Government (Wales)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rebecca Mary Evans"
+                ]
+              }
+            },
+            {
+              "text": "She has served as the Member of the Senedd (MS) for Gower since 2016, and a Member for Mid and West Wales from 2011 to 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of the Senedd"
+                },
+                {
+                  "text": "Gower",
+                  "type": "internal",
+                  "page": "Gower (Senedd Cymru constituency)"
+                },
+                {
+                  "text": "Mid and West Wales",
+                  "type": "internal",
+                  "page": "Mid and West Wales (Senedd Cymru electoral region)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Evans has previously served in the Welsh Government as the Deputy Minister for Farming and Food (2014–16), Minister for Social Care and Public Health (2016–17) and Minister for Housing and Regeneration (2017–18).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Welsh Government"
+                }
+              ]
+            },
+            {
+              "text": "She was Trefnydd (Leader) of the Senedd from 2018 to 2021.",
+              "links": [
+                {
+                  "text": "Senedd",
+                  "type": "internal",
+                  "page": "Senedd Cymru – Welsh Parliament"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "February 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "February 2017",
+          "template": "use british english"
+        },
+        {
+          "description": "Welsh Labour politician and Member of the Senedd for Gower",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1976",
+          "month": "8",
+          "day": "2",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Rebecca Evans"
+          },
+          "honorific-suffix": {
+            "text": "MS",
+            "links": [
+              {
+                "text": "MS",
+                "type": "internal",
+                "page": "Member of the Senedd"
+              }
+            ]
+          },
+          "image": {
+            "text": "Rebecca Evans AM (27555062324).jpg"
+          },
+          "caption": {
+            "text": "Evans in 2016"
+          },
+          "office": {
+            "text": "Minister for Finance",
+            "links": [
+              {
+                "text": "Minister for Finance",
+                "type": "internal",
+                "page": "Minister for Finance (Wales)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 December 2018"
+          },
+          "firstminister": {
+            "text": "Mark Drakeford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Drakeford"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Mark Drakeford"
+          },
+          "office1": {
+            "text": "Minister for Local Government",
+            "links": [
+              {
+                "text": "Minister for Local Government",
+                "type": "internal",
+                "page": "Minister for Local Government (Wales)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "13 May 2021"
+          },
+          "firstminister1": {
+            "text": "Mark Drakeford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Drakeford"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Julie James",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Julie James"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister for Housing and Regeneration",
+            "links": [
+              {
+                "text": "Minister for Housing and Regeneration",
+                "type": "internal",
+                "page": "Welsh Government"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "3 November 2017"
+          },
+          "term_end3": {
+            "text": "13 December 2018"
+          },
+          "firstminister3": {
+            "text": "Carwyn Jones",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carwyn Jones"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "successor3": {
+            "text": "Hannah Blythyn",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hannah Blythyn"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister for Social Services and Public Health",
+            "links": [
+              {
+                "text": "Minister for Social Services and Public Health",
+                "type": "internal",
+                "page": "Welsh Government"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "19 May 2016"
+          },
+          "term_end4": {
+            "text": "3 November 2017"
+          },
+          "firstminister4": {
+            "text": "Carwyn Jones"
+          },
+          "predecessor4": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "successor4": {
+            "text": "Huw Irranca-Davies (Children and Social Care)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Huw Irranca-Davies"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Deputy Minister for Farming and Food",
+            "links": [
+              {
+                "text": "Deputy Minister for Farming and Food",
+                "type": "internal",
+                "page": "Welsh Government"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "8 July 2014"
+          },
+          "term_end5": {
+            "text": "19 May 2016"
+          },
+          "firstminister5": {
+            "text": "Carwyn Jones"
+          },
+          "predecessor5": {
+            "text": "Alun Davies (Agriculture)",
+            "links": [
+              {
+                "text": "Alun Davies",
+                "type": "internal",
+                "page": "Alun Davies (politician)"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Hannah Blythyn (Minister for the Environment)"
+          },
+          "office6": {
+            "text": "Member of the Senedd\nfor Gower",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the Senedd"
+              },
+              {
+                "text": "Gower",
+                "type": "internal",
+                "page": "Gower (Senedd Cymru constituency)"
+              }
+            ]
+          },
+          "majority6": {
+            "text": "4,795 (14.4%)"
+          },
+          "term_start6": {
+            "text": "6 May 2016"
+          },
+          "predecessor6": {
+            "text": "Edwina Hart",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edwina Hart"
+              }
+            ]
+          },
+          "office7": {
+            "text": "Member of the Welsh Assembly\nfor Mid and West Wales",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the Welsh Assembly"
+              },
+              {
+                "text": "Mid and West Wales",
+                "type": "internal",
+                "page": "Mid and West Wales (Senedd Cymru electoral region)"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "5 May 2011"
+          },
+          "term_end7": {
+            "text": "6 May 2016"
+          },
+          "predecessor7": {
+            "text": "Alun Davies"
+          },
+          "successor7": {
+            "text": "Eluned Morgan",
+            "links": [
+              {
+                "text": "Eluned Morgan",
+                "type": "internal",
+                "page": "Eluned Morgan, Baroness Morgan of Ely"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Trefnydd of the Senedd",
+            "links": [
+              {
+                "text": "Trefnydd of the Senedd",
+                "type": "internal",
+                "page": "Welsh Government"
+              }
+            ]
+          },
+          "firstminister2": {
+            "text": "Mark Drakeford"
+          },
+          "term_start2": {
+            "text": "13 December 2018"
+          },
+          "term_end2": {
+            "text": "13 May 2021"
+          },
+          "predecessor2": {
+            "text": "Julie James",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Julie James"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Lesley Griffiths",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lesley Griffiths"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 2, 1976"
+          },
+          "birth_place": {
+            "text": "Bridgend, Wales",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bridgend"
+              }
+            ]
+          },
+          "party": {
+            "text": "Welsh Labour and Co-operative",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Welsh Labour"
+              },
+              {
+                "text": "Co-operative",
+                "type": "internal",
+                "page": "Co-operative Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Sidney Sussex College, Cambridge\nUniversity of Leeds",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sidney Sussex College, Cambridge"
+              },
+              {
+                "type": "internal",
+                "page": "University of Leeds"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "date": "April 2020",
+          "template": "citation needed"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "title": "Hannah Blythyn",
+  "pageID": 50453999,
+  "categories": [
+    "1979 births",
+    "Living people",
+    "Welsh Labour members of the Senedd",
+    "Female members of the Senedd",
+    "Wales MSs 2016–2021",
+    "Wales MSs 2021–2026",
+    "Place of birth missing (living people)",
+    "Lesbian politicians",
+    "LGBT government ministers",
+    "LGBT members of the Senedd"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hannah Blythyn MS  (born 17 April 1979  ) is a Welsh politician serving as Deputy Minister for Social Partnership since 2021.",
+              "links": [
+                {
+                  "text": " MS ",
+                  "type": "internal",
+                  "page": "Member of the Senedd"
+                },
+                {
+                  "text": "Deputy Minister for Social Partnership",
+                  "type": "internal",
+                  "page": "Welsh Government"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Hannah Blythyn"
+                ]
+              }
+            },
+            {
+              "text": "She was previously Deputy Minister for Housing and Local Government from 2018 to 2021.",
+              "links": [
+                {
+                  "text": "Deputy Minister for Housing and Local Government",
+                  "type": "internal",
+                  "page": "Minister for Housing and Local Government"
+                }
+              ]
+            },
+            {
+              "text": "A member of Welsh Labour, she has been the Member of the Senedd (MS) for Delyn since 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Welsh Labour"
+                },
+                {
+                  "type": "internal",
+                  "page": "Member of the Senedd"
+                },
+                {
+                  "text": "Delyn",
+                  "type": "internal",
+                  "page": "Delyn (Senedd constituency)"
+                },
+                {
+                  "text": "2016",
+                  "type": "internal",
+                  "page": "2016 National Assembly for Wales election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2016",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "December 2016",
+          "template": "use british english"
+        },
+        {
+          "description": "Welsh Labour politician and Member of the Senedd for Delyn",
+          "template": "short description"
+        },
+        {
+          "year": "1979",
+          "month": "4",
+          "day": "17",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Hannah Blythyn"
+          },
+          "honorific-suffix": {
+            "text": "MS",
+            "links": [
+              {
+                "text": "MS",
+                "type": "internal",
+                "page": "Member of the Senedd"
+              }
+            ]
+          },
+          "image": {
+            "text": "Hannah Blythyn AM (27555185853).jpg"
+          },
+          "caption": {
+            "text": "Blythyn in 2016"
+          },
+          "birth_date": {
+            "text": "April 17, 1979"
+          },
+          "office": {
+            "text": "Deputy Minister for Social Partnership",
+            "links": [
+              {
+                "text": "Deputy Minister for Social Partnership",
+                "type": "internal",
+                "page": "Welsh Government"
+              }
+            ]
+          },
+          "firstminister": {
+            "text": "Mark Drakeford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Drakeford"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "term_start": {
+            "text": "13 May 2021"
+          },
+          "office1": {
+            "text": "Deputy Minister for Housing and Local Government",
+            "links": [
+              {
+                "text": "Deputy Minister for Housing and Local Government",
+                "type": "internal",
+                "page": "Welsh Government"
+              }
+            ]
+          },
+          "firstminister1": {
+            "text": "Mark Drakeford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Drakeford"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Rebecca Evans",
+            "links": [
+              {
+                "text": "Rebecca Evans",
+                "type": "internal",
+                "page": "Rebecca Evans (politician)"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Office abolished",
+            "formatting": {
+              "italic": [
+                "Office abolished"
+              ]
+            }
+          },
+          "term_start1": {
+            "text": "14 December 2018"
+          },
+          "term_end1": {
+            "text": "13 May 2021"
+          },
+          "office2": {
+            "text": "Deputy Minister for Environment",
+            "links": [
+              {
+                "text": "Deputy Minister for Environment",
+                "type": "internal",
+                "page": "Welsh Government"
+              }
+            ]
+          },
+          "firstminister2": {
+            "text": "Carwyn Jones",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carwyn Jones"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "3 November 2017"
+          },
+          "term_end2": {
+            "text": "13 December 2018"
+          },
+          "office3": {
+            "text": "Member of the Senedd\nfor Delyn",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the Senedd"
+              },
+              {
+                "text": "Delyn",
+                "type": "internal",
+                "page": "Delyn (Senedd Cymru constituency)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "6 May 2016"
+          },
+          "majority3": {
+            "text": "3,711 (14.1%)"
+          },
+          "predecessor3": {
+            "text": "Sandy Mewies",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sandy Mewies"
+              }
+            ]
+          },
+          "party": {
+            "text": "Welsh Labour",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Welsh Labour"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "user": "hannahblythyn",
+          "author": "Hannah Blythyn AM",
+          "number": "59645804968820736",
+          "date": "17 Apr 2011",
+          "title": "Ok so it's nearly 5pm on a Sunday, it's my birthday therefore a G&T is more than acceptable...",
+          "template": "citation",
+          "type": "tweet"
+        },
+        {
+          "url": "https://beta.companieshouse.gov.uk/officers/yD4SRSnOEqj89QDj098G-yRCY9w/appointments",
+          "publisher": "Companies House",
+          "title": "Hannah BLYTHN – Personal Appointments",
+          "access-date": "2020-01-28",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Labour holds Delyn for Hannah Blythyn Labour holds Delyn for Hannah Blythyn",
+          "url": "http://www.dailypost.co.uk/news/north-wales-news/labour-holds-delyn-hannah-blythyn-11292259",
+          "access-date": "7 May 2016",
+          "work": "North Wales Daily Post",
+          "date": "6 May 2016",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}
