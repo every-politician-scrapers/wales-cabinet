@@ -1,17 +1,17 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q24039145,Hannah Blythyn,Hannah Blythyn,female,1979-04-17,11,https://gov.wales/cabinet-members-and-ministers,,Q107583849,Deputy Minister for Social Partnership,Q24039145-f7d880c1-49d1-1f75-7b6a-e6b21c7bcd33
-Q24039661,Lee Waters,Lee Waters,male,1976-02-12,11,https://gov.wales/cabinet-members-and-ministers,,Q107583756,Deputy Minister for Climate Change,Q24039661-007cf456-4701-9ef8-bf74-846a2deb2784
-Q24050164,Dawn Bowden,Dawn Bowden,female,1960-02-14,11,https://gov.wales/cabinet-members-and-ministers,,Q32947134,Chief Whip,Q24050164-2BA1DB1A-D185-4FEC-A2FB-12395D44C85F
-Q24050164,Dawn Bowden,Dawn Bowden,female,1960-02-14,11,https://gov.wales/cabinet-members-and-ministers,,Q107583881,Deputy Minister for Arts and Sport,Q24050164-8D376749-6B80-4A9D-AA7E-FCCD64F8A763
-Q24706040,Jeremy Miles,Jeremy Miles,male,1971-08-01,10,https://gov.wales/cabinet-members-and-ministers,2021-07-28,Q107583630,Minister for Education and Welsh Language,Q24706040-c0d4d142-443e-bb46-4e7f-dca80caf48e9
-Q336521,Eluned Morgan,"Eluned Morgan, Baroness Morgan of Ely",female,1967-02-16,11,https://gov.wales/cabinet-members-and-ministers,,Q60368713,Minister for Health and Social Services,Q336521-20fbaaf5-45b0-6ebe-a9b2-cb50b12ff45d
-Q6152404,Jane Hutt,Jane Hutt,female,1949-12-15,11,https://gov.wales/cabinet-members-and-ministers,,Q107583662,Minister for Social Justice,Q6152404-94adb83f-479a-ffd3-f8be-aeca2b1ff36a
-Q6308284,Julie James,Julie James,female,1957-02-25,11,https://gov.wales/cabinet-members-and-ministers,2021-07-28,Q107583514,Minister for Climate Change,Q6308284-b4d8fb8e-4c29-9efb-c839-b40e193626ea
-Q6308404,Julie Morgan,Julie Morgan,female,1944-11-02,11,https://gov.wales/cabinet-members-and-ministers,,Q107583810,Deputy Minister for Social Services,Q6308404-c77f5336-4055-c99e-491d-0006cc63cd79
-Q6530486,Lesley Griffiths,Lesley Griffiths,female,1960-01-01,9,https://gov.wales/cabinet-members-and-ministers,2021-07-28,Q107583356,Trefnydd,Q6530486-0fd81365-4da7-d4aa-38d6-ebbe3bbb2a8e
-Q6530486,Lesley Griffiths,Lesley Griffiths,female,1960-01-01,9,https://gov.wales/cabinet-members-and-ministers,2021-07-28,Q107063175,Minister for Rural Affairs and North Wales,Q6530486-7014933f-4786-0106-acf0-ba00a7e30a6f
-Q6709399,Lynne Neagle,Lynne Neagle,female,1968-01-18,11,https://gov.wales/cabinet-members-and-ministers,,Q107583952,Deputy Minister for Mental Health and Wellbeing,Q6709399-29A6121F-AF60-40F7-B435-20CC3053FAB7
-Q6767407,Mark Drakeford,Mark Drakeford,male,1954-09-19,11,https://gov.wales/cabinet-members-and-ministers,2021-07-29,Q18996,First Minister of Wales,Q6767407-e779ec12-43a5-39e9-3257-1956907fa57a
-Q6838044,Mick Antoniw,Mick Antoniw,male,1954-09-01,11,https://gov.wales/cabinet-members-and-ministers,,Q5176615,Counsel General and Minister for the Constitution,Q6838044-1E69F61D-6074-43FB-A30E-0B31029535B4
-Q7301733,Rebecca Evans,Rebecca Evans,female,1976-08-02,11,https://gov.wales/cabinet-members-and-ministers,2021-07-28,Q96393301,Minister for Finance and Local Government,Q7301733-d6e444c0-4b58-c542-5a93-f9ef67b3b545
-Q7917285,Vaughan Gething,Vaughan Gething,male,1974-03-15,11,https://gov.wales/cabinet-members-and-ministers,2021-07-28,Q107583548,Minister for Economy,Q7917285-ac90ddc3-42b0-8eae-3651-c523399b3cb5
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q24039145,Hannah Blythyn,Hannah Blythyn,female,1979-04-17,11,https://gov.wales/cabinet-members-and-ministers,,Q107583849,Deputy Minister for Social Partnership,2021-05-13,Q24039145-f7d880c1-49d1-1f75-7b6a-e6b21c7bcd33
+Q24039661,Lee Waters,Lee Waters,male,1976-02-12,11,https://gov.wales/cabinet-members-and-ministers,,Q107583756,Deputy Minister for Climate Change,2021-05-13,Q24039661-007cf456-4701-9ef8-bf74-846a2deb2784
+Q24050164,Dawn Bowden,Dawn Bowden,female,1960-02-14,11,https://gov.wales/cabinet-members-and-ministers,,Q32947134,Chief Whip,2021-05-13,Q24050164-2BA1DB1A-D185-4FEC-A2FB-12395D44C85F
+Q24050164,Dawn Bowden,Dawn Bowden,female,1960-02-14,11,https://gov.wales/cabinet-members-and-ministers,,Q107583881,Deputy Minister for Arts and Sport,2021-05-13,Q24050164-8D376749-6B80-4A9D-AA7E-FCCD64F8A763
+Q24706040,Jeremy Miles,Jeremy Miles,male,1971-08-01,10,https://gov.wales/cabinet-members-and-ministers,2021-07-28,Q107583630,Minister for Education and Welsh Language,2021-05-13,Q24706040-c0d4d142-443e-bb46-4e7f-dca80caf48e9
+Q336521,Eluned Morgan,"Eluned Morgan, Baroness Morgan of Ely",female,1967-02-16,11,https://gov.wales/cabinet-members-and-ministers,,Q60368713,Minister for Health and Social Services,2021-05-13,Q336521-20fbaaf5-45b0-6ebe-a9b2-cb50b12ff45d
+Q6152404,Jane Hutt,Jane Hutt,female,1949-12-15,11,https://gov.wales/cabinet-members-and-ministers,,Q107583662,Minister for Social Justice,2021-05-13,Q6152404-94adb83f-479a-ffd3-f8be-aeca2b1ff36a
+Q6308284,Julie James,Julie James,female,1957-02-25,11,https://gov.wales/cabinet-members-and-ministers,2021-07-28,Q107583514,Minister for Climate Change,2021-05-13,Q6308284-b4d8fb8e-4c29-9efb-c839-b40e193626ea
+Q6308404,Julie Morgan,Julie Morgan,female,1944-11-02,11,https://gov.wales/cabinet-members-and-ministers,,Q107583810,Deputy Minister for Social Services,2021-05-13,Q6308404-c77f5336-4055-c99e-491d-0006cc63cd79
+Q6530486,Lesley Griffiths,Lesley Griffiths,female,1960-01-01,9,https://gov.wales/cabinet-members-and-ministers,2021-07-28,Q107583356,Trefnydd,2021-05-13,Q6530486-0fd81365-4da7-d4aa-38d6-ebbe3bbb2a8e
+Q6530486,Lesley Griffiths,Lesley Griffiths,female,1960-01-01,9,https://gov.wales/cabinet-members-and-ministers,2021-07-28,Q107063175,Minister for Rural Affairs and North Wales,2021-05-13,Q6530486-7014933f-4786-0106-acf0-ba00a7e30a6f
+Q6709399,Lynne Neagle,Lynne Neagle,female,1968-01-18,11,https://gov.wales/cabinet-members-and-ministers,,Q107583952,Deputy Minister for Mental Health and Wellbeing,2021-05-13,Q6709399-29A6121F-AF60-40F7-B435-20CC3053FAB7
+Q6767407,Mark Drakeford,Mark Drakeford,male,1954-09-19,11,https://gov.wales/cabinet-members-and-ministers,2021-07-29,Q18996,First Minister of Wales,2018-12-13,Q6767407-e779ec12-43a5-39e9-3257-1956907fa57a
+Q6838044,Mick Antoniw,Mick Antoniw,male,1954-09-01,11,https://gov.wales/cabinet-members-and-ministers,,Q5176615,Counsel General and Minister for the Constitution,2021-05-13,Q6838044-1E69F61D-6074-43FB-A30E-0B31029535B4
+Q7301733,Rebecca Evans,Rebecca Evans,female,1976-08-02,11,https://gov.wales/cabinet-members-and-ministers,2021-07-28,Q96393301,Minister for Finance and Local Government,2021-05-13,Q7301733-d6e444c0-4b58-c542-5a93-f9ef67b3b545
+Q7917285,Vaughan Gething,Vaughan Gething,male,1974-03-15,11,https://gov.wales/cabinet-members-and-ministers,2021-07-28,Q107583548,Minister for Economy,2021-05-13,Q7917285-ac90ddc3-42b0-8eae-3651-c523399b3cb5
