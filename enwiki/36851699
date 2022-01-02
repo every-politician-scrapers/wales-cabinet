@@ -442,18 +442,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "date": "April 2020",
-          "template": "citation needed"
-        }
       ]
     }
   ]

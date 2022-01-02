@@ -454,29 +454,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.bbc.com/news/uk-wales-politics-35885206",
-          "title": "Labour MP quits Commons to run for seat in Cardiff Bay",
-          "work": "BBC News",
-          "access-date": "20 May 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://gov.wales/announcements/search",
-          "title": "Announcements",
-          "website": "GOV.WALES",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

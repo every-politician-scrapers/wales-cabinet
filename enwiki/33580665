@@ -664,47 +664,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.walesonline.co.uk/news/politics/senedd-election-cardiff-west-candidates-20516518",
-          "title": "Mark Drakeford retains Cardiff West Senedd seat for Labour with overwhelming majority",
-          "publisher": "Wales Online",
-          "date": "7 May 2021",
-          "accessdate": "7 May 2021",
-          "last1": "Lewis",
-          "first1": "Anna",
-          "last2": "Woodhead",
-          "first2": "Lauren",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "last1": "Williamson",
-          "first1": "David",
-          "title": "Mark Drakeford tipped to be next Welsh Labour leader",
-          "url": "https://www.walesonline.co.uk/news/politics/mark-drakeford-tipped-next-welsh-14498381",
-          "website": "WalesOnline",
-          "access-date": "6 December 2018",
-          "date": "6 April 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Drakeford supports Corbyn for leader",
-          "url": "https://www.bbc.co.uk/news/uk-wales-politics-33941446",
-          "website": "BBC News",
-          "access-date": "6 December 2018",
-          "date": "14 August 2015",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

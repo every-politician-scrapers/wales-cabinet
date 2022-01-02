@@ -417,68 +417,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.bbc.co.uk/news/uk-wales-29156951",
-          "title": "Leighton Andrews rejoins cabinet in reshuffle",
-          "date": "11 September 2014",
-          "via": "www.bbc.co.uk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/uk-wales-politics-21789790",
-          "title": "Welsh government reshuffle: Mark Drakeford new health minister",
-          "date": "14 March 2013",
-          "via": "www.bbc.co.uk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://senedd.wales/en/memhome/Pages/MemberProfile.aspx?mid=154",
-          "title": "Member Profile",
-          "website": "Welsh Parliament",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://wales.gov.uk/newsroom/firstminister/2011/cabinet/?lang%3Den",
-          "title": "Archived copy",
-          "accessdate": "2011-05-13",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20110522112834/http://wales.gov.uk/newsroom/firstminister/2011/cabinet/?lang=en",
-          "archivedate": "22 May 2011",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://gov.wales/about/cabinet/cabinetstatements/2017/ministerialchanges/?lang=en",
-          "title": "Welsh Government {{!}} Written Statement – Ministerial changes",
-          "website": "gov.wales",
-          "language": "EN",
-          "access-date": "2017-11-13",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://wales.gov.uk/about/cabinet/cabinetm/lesleygriffiths?lang%3Den",
-          "title": "Archived copy",
-          "accessdate": "2013-04-01",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20120822202552/http://wales.gov.uk/about/cabinet/cabinetm/lesleygriffiths?lang=en",
-          "archivedate": "22 August 2012",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://gov.wales/about/cabinet/cabinetm/lesley-griffiths?lang=en",
-          "title": "Lesley Griffiths MS: Minister for Environment, Energy and Rural Affairs",
-          "publisher": "Gov.Wales",
-          "accessdate": "2021-05-11",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

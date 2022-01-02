@@ -400,48 +400,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.bbc.com/news/uk-wales-politics-36326335",
-          "title": "Lib Dem Williams named in new cabinet",
-          "date": "19 May 2016",
-          "access-date": "18 October 2019",
-          "publisher": "BBC",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bbc.com/news/uk-wales-23073832",
-          "title": "Lewis named as education minister",
-          "date": "26 June 2013",
-          "access-date": "18 October 2019",
-          "publisher": "BBC",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Davies",
-          "first1": "Daniel",
-          "title": "Welsh Labour's mystery runners?",
-          "url": "https://www.bbc.co.uk/news/uk-wales-politics-46138224",
-          "access-date": "17 August 2019",
-          "work": "BBC News",
-          "publisher": "BBC",
-          "date": "9 November 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/special/election2011/constituency/html/26674.stm",
-          "title": "Wales elections > Cardiff South and Penarth",
-          "work": "BBC News",
-          "publisher": "BBC",
-          "date": "6 May 2011",
-          "access-date": "12 May 2011",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
