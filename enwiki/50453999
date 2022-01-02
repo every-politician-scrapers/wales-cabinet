@@ -258,34 +258,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "user": "hannahblythyn",
-          "author": "Hannah Blythyn AM",
-          "number": "59645804968820736",
-          "date": "17 Apr 2011",
-          "title": "Ok so it's nearly 5pm on a Sunday, it's my birthday therefore a G&T is more than acceptable...",
-          "template": "citation",
-          "type": "tweet"
-        },
-        {
-          "url": "https://beta.companieshouse.gov.uk/officers/yD4SRSnOEqj89QDj098G-yRCY9w/appointments",
-          "publisher": "Companies House",
-          "title": "Hannah BLYTHN – Personal Appointments",
-          "access-date": "2020-01-28",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Labour holds Delyn for Hannah Blythyn Labour holds Delyn for Hannah Blythyn",
-          "url": "http://www.dailypost.co.uk/news/north-wales-news/labour-holds-delyn-hannah-blythyn-11292259",
-          "access-date": "7 May 2016",
-          "work": "North Wales Daily Post",
-          "date": "6 May 2016",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
