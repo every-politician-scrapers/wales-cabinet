@@ -625,12 +625,12 @@
             ]
           },
           "nationality": {
-            "text": "British",
+            "text": "Welsh",
             "links": [
               {
-                "text": "British",
+                "text": "Welsh",
                 "type": "internal",
-                "page": "British people"
+                "page": "Welsh people"
               }
             ]
           },
