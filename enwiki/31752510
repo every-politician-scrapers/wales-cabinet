@@ -13,6 +13,7 @@
     "People from Llantrisant",
     "British people of Ukrainian descent",
     "Welsh humanists",
+    "Welsh Christians",
     "Members of South Glamorgan County Council",
     "Recipients of the Order of Merit (Ukraine), 3rd class"
   ],
@@ -27,6 +28,12 @@
               "text": "Mick Antoniw (Мік Антонів; born 1 September 1954) is a Welsh Labour and Co-operative politician serving as Counsel General for Wales since 2021, and previously from 2016 to 2017.",
               "links": [
                 {
+                  "text": "Welsh",
+                  "type": "internal",
+                  "page": "Welsh people"
+                },
+                {
+                  "text": "Labour",
                   "type": "internal",
                   "page": "Welsh Labour"
                 },
