@@ -1,566 +1,74 @@
 {
-  "title": "Jane Hutt",
-  "pageID": 1444213,
-  "categories": [
-    "1949 births",
-    "Alumni of the London School of Economics",
-    "Alumni of the University of Bristol",
-    "Alumni of the University of Kent",
-    "People educated at Surbiton High School",
-    "Members of South Glamorgan County Council",
-    "Living people",
-    "Members of the Welsh Assembly Government",
-    "School governors",
-    "Wales AMs 1999–2003",
-    "Wales AMs 2003–2007",
-    "Wales AMs 2007–2011",
-    "Wales AMs 2011–2016",
-    "Wales MSs 2016–2021",
-    "Wales MSs 2021–2026",
-    "Welsh Labour members of the Senedd",
-    "Female members of the Senedd",
-    "Ministers for Finance of Wales",
-    "Female finance ministers",
-    "Politics of the Vale of Glamorgan",
-    "20th-century British women politicians",
-    "Women members of the Welsh Assembly Government",
-    "Women councillors in Wales"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Jane Elizabeth Hutt MS  (born 15 December 1949) is a Welsh Labour Party politician serving as Minister for Social Justice since 2021.",
-              "links": [
-                {
-                  "text": " MS ",
-                  "type": "internal",
-                  "page": "Member of the Senedd"
-                },
-                {
-                  "text": "Welsh",
-                  "type": "internal",
-                  "page": "Welsh people"
-                },
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "Welsh Labour"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Jane Elizabeth Hutt"
-                ]
-              }
-            },
-            {
-              "text": "She has served as the Member of the Senedd (MS) for the Vale of Glamorgan since 1999.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Member of the Senedd"
-                },
-                {
-                  "text": "Vale of Glamorgan",
-                  "type": "internal",
-                  "page": "Vale of Glamorgan (Senedd constituency)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "A member of the Parliament since its creation, Hutt holds the record for the longest serving Welsh Government minister and has served in every administration to date.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Welsh Government"
-                }
-              ]
-            },
-            {
-              "text": "She served continually in government from May 1999 until the November 2017 reshuffle, returning in December 2018."
-            },
-            {
-              "text": "Hutt has held several of the most senior government offices, including Minister for Finance, Minister for Health and Social Services, and Minister for Education.",
-              "links": [
-                {
-                  "text": "Minister for Finance",
-                  "type": "internal",
-                  "page": "Minister for Finance (Wales)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister for Health and Social Services"
-                },
-                {
-                  "text": "Minister for Education",
-                  "type": "internal",
-                  "page": "Department for Education and Skills (Wales)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "August 2014",
-          "template": "engvarb"
-        },
-        {
-          "description": "Welsh Labour politician and Member of the Senedd for Vale of Glamorgan",
-          "template": "short description"
-        },
-        {
-          "date": "August 2014",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1949",
-          "month": "12",
-          "day": "15",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Jane Hutt"
-          },
-          "honorific-suffix": {
-            "text": "MS",
-            "links": [
-              {
-                "text": "MS",
-                "type": "internal",
-                "page": "Member of the Senedd"
-              }
-            ]
-          },
-          "image": {
-            "text": "Jane Hutt AM (28136581466).jpg"
-          },
-          "caption": {
-            "text": "Hutt in 2016"
-          },
-          "office": {
-            "text": "Minister for Social Justice",
-            "links": [
-              {
-                "text": "Minister for Social Justice",
-                "type": "internal",
-                "page": "Welsh Government"
-              }
-            ]
-          },
-          "firstminister": {
-            "text": "Mark Drakeford",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Drakeford"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Office established",
-            "formatting": {
-              "italic": [
-                "Office established"
-              ]
-            }
-          },
-          "term_start": {
-            "text": "13 May 2021"
-          },
-          "office1": {
-            "text": "Welsh Government Chief Whip",
-            "links": [
-              {
-                "text": "Welsh Government Chief Whip",
-                "type": "internal",
-                "page": "Welsh Government"
-              }
-            ]
-          },
-          "firstminister1": {
-            "text": "Mark Drakeford",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Drakeford"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "13 December 2018"
-          },
-          "term_end1": {
-            "text": "13 May 2021"
-          },
-          "predecessor1": {
-            "text": "Julie James",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Julie James"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Dawn Bowden",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dawn Bowden"
-              }
-            ]
-          },
-          "firstminister2": {
-            "text": "Carwyn Jones",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carwyn Jones"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "19 May 2016"
-          },
-          "term_end2": {
-            "text": "3 November 2017"
-          },
-          "predecessor2": {
-            "text": "Janice Gregory",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Janice Gregory"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Julie James"
-          },
-          "office3": {
-            "text": "Leader of the House",
-            "links": [
-              {
-                "text": "Leader of the House",
-                "type": "internal",
-                "page": "Welsh Government"
-              }
-            ]
-          },
-          "firstminister3": {
-            "text": "Carwyn Jones"
-          },
-          "term_start3": {
-            "text": "10 December 2009"
-          },
-          "term_end3": {
-            "text": "3 November 2017"
-          },
-          "predecessor3": {
-            "text": "Carwyn Jones"
-          },
-          "successor3": {
-            "text": "Julie James"
-          },
-          "firstminister4": {
-            "text": "Rhodri Morgan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rhodri Morgan"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "10 September 2005"
-          },
-          "term_end4": {
-            "text": "19 July 2007"
-          },
-          "predecessor4": {
-            "text": "Karen Sinclair",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karen Sinclair"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Carl Sargeant",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carl Sargeant"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister for Finance",
-            "links": [
-              {
-                "text": "Minister for Finance",
-                "type": "internal",
-                "page": "Minister for Finance (Wales)"
-              }
-            ]
-          },
-          "firstminister5": {
-            "text": "Carwyn Jones"
-          },
-          "term_start5": {
-            "text": "10 December 2009"
-          },
-          "term_end5": {
-            "text": "19 May 2016"
-          },
-          "predecessor5": {
-            "text": "Andrew Davies",
-            "links": [
-              {
-                "text": "Andrew Davies",
-                "type": "internal",
-                "page": "Andrew Davies (Labour politician)"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Mark Drakeford"
-          },
-          "firstminister6": {
-            "text": "Rhodri Morgan"
-          },
-          "term_start6": {
-            "text": "31 May 2007"
-          },
-          "term_end6": {
-            "text": "19 July 2007"
-          },
-          "predecessor6": {
-            "text": "Sue Essex",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sue Essex"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Andrew Davies"
-          },
-          "office7": {
-            "text": "Minister for Children, Education, Lifelong Learning and Skills",
-            "links": [
-              {
-                "text": "Minister for Children, Education, Lifelong Learning and Skills",
-                "type": "internal",
-                "page": "Department for Children, Education, Lifelong Learning and Skills"
-              }
-            ]
-          },
-          "firstminister7": {
-            "text": "Rhodri Morgan"
-          },
-          "term_start7": {
-            "text": "19 July 2007"
-          },
-          "term_end7": {
-            "text": "10 December 2009"
-          },
-          "predecessor7": {
-            "text": "Carwyn Jones (Education, Culture and the Welsh Language)"
-          },
-          "successor7": {
-            "text": "Leighton Andrews (Children, Education and Lifelong Learning)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Leighton Andrews"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Minister for Equalities and Children",
-            "links": [
-              {
-                "text": "Minister for Equalities and Children",
-                "type": "internal",
-                "page": "Welsh Government"
-              }
-            ]
-          },
-          "firstminister8": {
-            "text": "Rhodri Morgan"
-          },
-          "term_start8": {
-            "text": "10 September 2005"
-          },
-          "term_end8": {
-            "text": "31 May 2007"
-          },
-          "predecessor8": {
-            "text": "Office established",
-            "formatting": {
-              "italic": [
-                "Office established"
-              ]
-            }
-          },
-          "successor8": {
-            "text": "Office abolished",
-            "formatting": {
-              "italic": [
-                "Office abolished"
-              ]
-            }
-          },
-          "office9": {
-            "text": "Minister for Health and Social Services",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister for Health and Social Services"
-              }
-            ]
-          },
-          "firstminister9": {
-            "text": "Rhodri Morgan\nAlun Michael",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alun Michael"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "12 May 1999"
-          },
-          "term_end9": {
-            "text": "10 September 2005"
-          },
-          "predecessor9": {
-            "text": "Office established",
-            "formatting": {
-              "italic": [
-                "Office established"
-              ]
-            }
-          },
-          "successor9": {
-            "text": "Brian Gibbons",
-            "links": [
-              {
-                "text": "Brian Gibbons",
-                "type": "internal",
-                "page": "Brian Gibbons (politician)"
-              }
-            ]
-          },
-          "office10": {
-            "text": "Member of the Senedd\nfor Vale of Glamorgan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of the Senedd"
-              },
-              {
-                "text": "Vale of Glamorgan",
-                "type": "internal",
-                "page": "Vale of Glamorgan (Assembly constituency)"
-              }
-            ]
-          },
-          "majority10": {
-            "text": "3,270 (7.6%)"
-          },
-          "term_start10": {
-            "text": "6 May 1999"
-          },
-          "predecessor10": {
-            "text": "Office established",
-            "formatting": {
-              "italic": [
-                "Office established"
-              ]
-            }
-          },
-          "birth_date": {
-            "text": "December 15, 1949"
-          },
-          "birth_place": {
-            "text": "Epsom, England",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Epsom"
-              }
-            ]
-          },
-          "party": {
-            "text": "Welsh Labour",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Welsh Labour"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Michael Trickey"
-          },
-          "children": {
-            "text": "2 daughters"
-          },
-          "alma_mater": {
-            "text": "University of Kent\nLondon School of Economics\nUniversity of Bristol",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Kent"
-              },
-              {
-                "type": "internal",
-                "page": "London School of Economics"
-              },
-              {
-                "type": "internal",
-                "page": "University of Bristol"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician, trade unionist"
-          },
-          "website": {
-            "text": "Jane For The Vale",
-            "links": [
-              {
-                "text": "Jane For The Vale",
-                "type": "external",
-                "site": "https://janehutt.wales&#124;"
-              }
-            ]
-          },
-          "current offic3": {
-            "text": "Minister for Social Justice"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Jane Hutt",
+  "honorific-suffix": "MS",
+  "image": "Jane Hutt AM (28136581466).jpg",
+  "caption": "Hutt in 2016",
+  "office": "Minister for Social Justice",
+  "firstminister": "Mark Drakeford",
+  "predecessor": "Office established",
+  "term_start": "13 May 2021",
+  "office1": "Welsh Government Chief Whip",
+  "firstminister1": "Mark Drakeford",
+  "term_start1": "13 December 2018",
+  "term_end1": "13 May 2021",
+  "predecessor1": "Julie James",
+  "successor1": "Dawn Bowden",
+  "firstminister2": "Carwyn Jones",
+  "term_start2": "19 May 2016",
+  "term_end2": "3 November 2017",
+  "predecessor2": "Janice Gregory",
+  "successor2": "Julie James",
+  "office3": "Leader of the House",
+  "firstminister3": "Carwyn Jones",
+  "term_start3": "10 December 2009",
+  "term_end3": "3 November 2017",
+  "predecessor3": "Carwyn Jones",
+  "successor3": "Julie James",
+  "firstminister4": "Rhodri Morgan",
+  "term_start4": "10 September 2005",
+  "term_end4": "19 July 2007",
+  "predecessor4": "Karen Sinclair",
+  "successor4": "Carl Sargeant",
+  "office5": "Minister for Finance",
+  "firstminister5": "Carwyn Jones",
+  "term_start5": "10 December 2009",
+  "term_end5": "19 May 2016",
+  "predecessor5": "Andrew Davies",
+  "successor5": "Mark Drakeford",
+  "firstminister6": "Rhodri Morgan",
+  "term_start6": "31 May 2007",
+  "term_end6": "19 July 2007",
+  "predecessor6": "Sue Essex",
+  "successor6": "Andrew Davies",
+  "office7": "Minister for Children, Education, Lifelong Learning and Skills",
+  "firstminister7": "Rhodri Morgan",
+  "term_start7": "19 July 2007",
+  "term_end7": "10 December 2009",
+  "predecessor7": "Carwyn Jones (Education, Culture and the Welsh Language)",
+  "successor7": "Leighton Andrews (Children, Education and Lifelong Learning)",
+  "office8": "Minister for Equalities and Children",
+  "firstminister8": "Rhodri Morgan",
+  "term_start8": "10 September 2005",
+  "term_end8": "31 May 2007",
+  "predecessor8": "Office established",
+  "successor8": "Office abolished",
+  "office9": "Minister for Health and Social Services",
+  "firstminister9": "Rhodri Morgan\nAlun Michael",
+  "term_start9": "12 May 1999",
+  "term_end9": "10 September 2005",
+  "predecessor9": "Office established",
+  "successor9": "Brian Gibbons",
+  "office10": "Member of the Senedd\nfor Vale of Glamorgan",
+  "majority10": "3,270 (7.6%)",
+  "term_start10": "6 May 1999",
+  "predecessor10": "Office established",
+  "birth_date": "December 15, 1949",
+  "birth_place": "Epsom, England",
+  "party": "Welsh Labour",
+  "spouse": "Michael Trickey",
+  "children": "2 daughters",
+  "alma_mater": "University of Kent\nLondon School of Economics\nUniversity of Bristol",
+  "occupation": "Politician, trade unionist",
+  "website": "Jane For The Vale",
+  "current offic3": "Minister for Social Justice"
 }
