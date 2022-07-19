@@ -1,0 +1,431 @@
+{
+  "title": "Lynne Neagle",
+  "pageID": 11203126,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "Welsh Labour members of the Senedd",
+    "Labour Co-operative members of the Senedd",
+    "Wales AMs 1999–2003",
+    "Wales AMs 2003–2007",
+    "Wales AMs 2007–2011",
+    "Wales AMs 2011–2016",
+    "Wales MSs 2016–2021",
+    "Wales MSs 2021–2026",
+    "Alumni of the University of Reading",
+    "People from Merthyr Tydfil",
+    "Female members of the Senedd",
+    "20th-century British women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lynne Neagle MS (born 18 January 1968) is a Welsh Labour & Co-operative politician.",
+              "links": [
+                {
+                  "text": "MS",
+                  "type": "internal",
+                  "page": "Member of the Senedd"
+                },
+                {
+                  "type": "internal",
+                  "page": "Welsh Labour"
+                },
+                {
+                  "text": "Co-operative",
+                  "type": "internal",
+                  "page": "Co-operative Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lynne Neagle"
+                ]
+              }
+            },
+            {
+              "text": "Born in Merthyr Tydfil, Glamorgan, Wales, Neagle has been the Member of the Senedd (MS) for the constituency of Torfaen since the Senedd was established in 1999.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Merthyr Tydfil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Glamorgan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Member of the Senedd"
+                },
+                {
+                  "text": "Torfaen",
+                  "type": "internal",
+                  "page": "Torfaen (National Assembly for Wales constituency)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Senedd"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Lindsay Naegle"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "description": "Welsh Labour & Co-operative politician and Member of the Senedd for Torfaen",
+          "template": "short description"
+        },
+        {
+          "date": "November 2012",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1968",
+          "month": "1",
+          "day": "18",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Lynne Neagle"
+          },
+          "honorific-suffix": {
+            "text": "MS",
+            "links": [
+              {
+                "text": "MS",
+                "type": "internal",
+                "page": "Member of the Senedd"
+              }
+            ]
+          },
+          "image": {
+            "text": "Lynne Neagle.jpg"
+          },
+          "caption": {
+            "text": "Neagle in 2011"
+          },
+          "office": {
+            "text": "Deputy Minister for Mental Health and Wellbeing",
+            "links": [
+              {
+                "text": "Deputy Minister for Mental Health and Wellbeing",
+                "type": "internal",
+                "page": "Welsh Government"
+              }
+            ]
+          },
+          "firstminister": {
+            "text": "Mark Drakeford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Drakeford"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "The Baroness Morgan of Ely",
+            "links": [
+              {
+                "text": "The Baroness Morgan of Ely",
+                "type": "internal",
+                "page": "Eluned Morgan, Baroness Morgan of Ely"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 May 2021"
+          },
+          "office1": {
+            "text": "Member of the Senedd\nfor Torfaen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the Senedd"
+              },
+              {
+                "text": "Torfaen",
+                "type": "internal",
+                "page": "Torfaen (National Assembly for Wales constituency)"
+              }
+            ]
+          },
+          "majority1": {
+            "text": "5,321 (22.2%)"
+          },
+          "term_start1": {
+            "text": "6 May 1999"
+          },
+          "predecessor1": {
+            "text": "Office Created",
+            "links": [
+              {
+                "text": "Office Created",
+                "type": "internal",
+                "page": "Government of Wales Act 1998"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 18, 1968"
+          },
+          "birth_place": {
+            "text": "Merthyr Tydfil, Wales",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Merthyr Tydfil"
+              },
+              {
+                "type": "internal",
+                "page": "Wales"
+              }
+            ]
+          },
+          "party": {
+            "text": "Welsh Labour Co-operative",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Welsh Labour"
+              },
+              {
+                "text": "Co-operative",
+                "type": "internal",
+                "page": "Co-operative Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Huw Lewis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Huw Lewis"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "alma_mater": {
+            "text": "University of Reading",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Reading"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Political Advisor"
+          },
+          "website": {
+            "text": "Welsh Labour",
+            "links": [
+              {
+                "text": "Welsh Labour",
+                "type": "external",
+                "site": "https://web.archive.org/web/20131210064735/http://www.welshlabour.org.uk/assembly-members/lynne-neagle/"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://senedd.wales/people/lynne-neagle-ms/",
+          "title": "Lynne Neagle MS",
+          "website": "senedd.wales",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Background",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Neagle was educated at Cyfarthfa High School, Merthyr Tydfil, and the University of Reading, where she read French and Italian.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cyfarthfa High School"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Reading"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is a former Voluntary Sector Carer and Careers Development Officer."
+            },
+            {
+              "text": "Neagle was also a research assistant to Glenys Kinnock MEP.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Glenys Kinnock"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Neagle was elected to the Senedd in 1999 as a Labour candidate to represent Torfaen."
+            },
+            {
+              "text": "Ahead of the 2011 elections she was adopted as a Labour & Co-operative candidate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Neagle is married to Huw Lewis, the former Senedd Member for Merthyr Tydfil and Rhymney.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Huw Lewis"
+                },
+                {
+                  "text": "Merthyr Tydfil and Rhymney",
+                  "type": "internal",
+                  "page": "Merthyr Tydfil and Rhymney (National Assembly for Wales constituency)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "National Assembly for Wales Member profile",
+            "links": [
+              {
+                "text": "National Assembly for Wales",
+                "type": "external",
+                "site": "http://www.senedd.assembly.wales/mgUserInfo.aspx?UID=174"
+              }
+            ]
+          },
+          {
+            "text": "Welsh Labour Party Website",
+            "links": [
+              {
+                "text": "Welsh Labour Party Website",
+                "type": "external",
+                "site": "https://web.archive.org/web/20150701194753/http://www.welshlabour.org.uk/"
+              }
+            ]
+          },
+          {
+            "text": "Website of the Welsh Assembly Government",
+            "links": [
+              {
+                "text": "Website of the Welsh Assembly Government",
+                "type": "external",
+                "site": "http://new.wales.gov.uk/?lang=en="
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Offices held",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "wal"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "(new post)",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of the Senedd for Torfaen",
+          "years": "1999–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "drakeford cabinet"
+        },
+        {
+          "template": "current welsh ams"
+        },
+        {
+          "template": "wales-am-stub"
+        }
+      ]
+    }
+  ]
+}
