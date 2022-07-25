@@ -336,12 +336,34 @@
       ],
       "references": [
         {
-          "url": "https://www.pressreader.com/uk/western-mail/20200205/282050509055093",
-          "title": "PressReader.com – Your favorite newspapers and magazines.",
-          "website": "www.pressreader.com",
-          "access-date": "2020-04-27",
+          "last": "Shipton",
+          "first": "Martin",
+          "date": "2020-02-05",
+          "title": "Martin Shipton Meets... Lee Waters",
+          "url": "https://www.stitcher.com/show/martin-shipton-meets/episode/lee-waters-67109761",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20220724200357/https://www.stitcher.com/show/martin-shipton-meets/episode/lee-waters-67109761",
+          "archive-date": "2022-07-24",
+          "access-date": "2022-07-24",
+          "website": "Stitcher",
+          "publisher": "Western Mail",
+          "type": "web",
+          "via": "Stitcher",
+          "template": "citation"
+        },
+        {
+          "date": "2020-02-05",
+          "title": "'If you have nothing in your life but politics, you're a sad soul...'",
+          "pages": "26",
+          "work": "Western Mail",
+          "format": "HTML",
+          "url": "https://www.pressreader.com/uk/western-mail/20200205",
+          "url-status": "live",
+          "access-date": "2022-07-24",
+          "archive-url": "https://web.archive.org/web/20220724195322/https://www.pressreader.com/uk/western-mail/20200205",
+          "archive-date": "2022-07-24",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "url": "https://www.walesonline.co.uk/business/business-news/amman-valley-having-hands-tiller-15916650",
@@ -512,6 +534,7 @@
               "text": "In 2007 he became Director of the green transport organisation, Sustrans Cymru.",
               "links": [
                 {
+                  "text": "Sustrans Cymru",
                   "type": "internal",
                   "page": "Sustrans"
                 }
@@ -597,6 +620,47 @@
             },
             {
               "text": "He led work on creating a Digital Strategy for Wales and in developing the Foundational Economy including a £4.5m Challenge Fund to trial new approaches."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Along with Julie James, the Minister for Climate Change, Waters announced in 2021 a freeze on all new road building projects in Wales pending a Welsh government review.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Julie James"
+                },
+                {
+                  "text": "Welsh government",
+                  "type": "internal",
+                  "page": "Welsh Government"
+                }
+              ]
+            },
+            {
+              "text": "The decision is motivated by the government's goal to cut emissions."
+            },
+            {
+              "text": "Both Plaid and Conservative MS' voiced concerns about the plan.",
+              "links": [
+                {
+                  "text": "Plaid",
+                  "type": "internal",
+                  "page": "Plaid Cymru"
+                },
+                {
+                  "text": "Conservative",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                },
+                {
+                  "text": "MS",
+                  "type": "internal",
+                  "page": "Member of the Senedd"
+                }
+              ]
             }
           ]
         }
@@ -747,6 +811,23 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Waters hopes to overhaul bus transport in Wales through integrating services and focusing on passengers."
+            },
+            {
+              "text": "He is the minister responsible for the consultation, which opened alongside the publication of the white paper \"One Network, One Timetable, One Ticket: Planning Buses as a Public Service for Wales\".",
+              "links": [
+                {
+                  "text": "white paper",
+                  "type": "internal",
+                  "page": "white paper"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -783,6 +864,21 @@
           "language": "en-GB",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "Waters",
+          "first": "Lee",
+          "date": "2022-03-31",
+          "title": "Written Statement: One Network, One Timetable, One Ticket: Planning Buses as a Public Service for Wales (31 March 2022)",
+          "url": "https://gov.wales/written-statement-one-network-one-timetable-one-ticket-planning-buses-public-service-wales",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20220625030450/https://gov.wales/written-statement-one-network-one-timetable-one-ticket-planning-buses-public-service-wales",
+          "archive-date": "2022-07-24",
+          "access-date": "2022-07-24",
+          "website": "GOV.WALES",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -916,6 +1012,9 @@
           "sentences": [
             {
               "text": "He has two children and resides in the Penarth area, with a house in Llanelli."
+            },
+            {
+              "text": "He is a member of the GMB Union."
             }
           ]
         }
@@ -927,6 +1026,19 @@
           "access-date": "2021-03-23",
           "website": "senedd.wales",
           "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-06-30",
+          "title": "Register of interests for Lee Waters MS",
+          "url": "https://business.senedd.wales/mgDeclarationSubmission.aspx?UID=4978&HID=1382&FID=0&HPID=0",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20220705093637/https://business.senedd.wales/mgDeclarationSubmission.aspx?UID=4978&HID=1382&FID=0&HPID=0",
+          "archive-date": "2022-07-05",
+          "access-date": "2022-07-24",
+          "website": "business.senedd.wales",
+          "language": "en-gb",
           "template": "citation",
           "type": "web"
         }

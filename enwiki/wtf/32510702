@@ -524,10 +524,10 @@
         {
           "url": "https://www.bbc.com/news/uk-wales-politics-36230898",
           "title": "Three gay and lesbian AMs 'a milestone'",
+          "work": "BBC News",
           "date": "7 May 2016",
-          "via": "www.bbc.co.uk",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "url": "https://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5021",
@@ -717,6 +717,7 @@
           "title": "Pinc List 2017",
           "url": "http://www.walesonline.co.uk/whats-on/whats-on-news/pinc-list-2017-40-most-13462359",
           "website": "Wales Online",
+          "date": "19 August 2017",
           "template": "citation",
           "type": "web"
         },
@@ -734,16 +735,17 @@
           "url": "https://www.itv.com/news/wales/2018-03-13/welsh-labour-jeremy-miles-second-chance-nation/",
           "title": "Make Wales 'second chance nation' urges Labour AM",
           "website": "ITV News",
+          "date": "13 March 2018",
           "template": "citation",
           "type": "web"
         },
         {
           "url": "https://www.bbc.com/news/uk-wales-politics-45064358",
           "title": "Potential leader rival backs Drakeford",
+          "work": "BBC News",
           "date": "4 August 2018",
-          "via": "www.bbc.co.uk",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         }
       ]
     },
