@@ -1,0 +1,92 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Senedd",
+        "Neath (Senedd constituency)"
+      ],
+      "stated_as": "Member of the Senedd\nfor Neath"
+    },
+    "P580": "2016-05-06",
+    "P1365": {
+      "links": [
+        "Gwenda Thomas"
+      ],
+      "stated_as": "Gwenda Thomas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Counsel General for Wales"
+      ],
+      "stated_as": "Counsel General for Wales"
+    },
+    "P580": "2017-11-16",
+    "P1365": {
+      "links": [
+        "Mick Antoniw"
+      ],
+      "stated_as": "Mick Antoniw"
+    },
+    "P582": "2021-05-13",
+    "P1366": {
+      "links": [
+        "Mick Antoniw"
+      ],
+      "stated_as": "Mick Antoniw"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Minister for European Transition"
+    },
+    "P580": "2018-12-13",
+    "P1365": {
+      "links": [
+        "Mark Drakeford"
+      ],
+      "stated_as": "Mark Drakeford"
+    },
+    "P582": "2021-05-13",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Education (Wales)"
+      ],
+      "stated_as": "Minister for Education"
+    },
+    "P580": "2021-05-13",
+    "P1365": {
+      "links": [
+        "Kirsty Williams"
+      ],
+      "stated_as": "Kirsty Williams"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Minister for the Welsh Language"
+    },
+    "P580": "2021-05-13",
+    "P1365": {
+      "links": [
+        "Eluned Morgan, Baroness Morgan of Ely"
+      ],
+      "stated_as": "The Baroness Morgan of Ely"
+    }
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the European Parliament",
+        "Mid and West Wales (European Parliament constituency)"
+      ],
+      "stated_as": "Member of the European Parliament for Mid and West Wales"
+    },
+    "P580": "1994-06-09",
+    "P1365": {
+      "links": [
+        "David Morris (Labour politician)"
+      ],
+      "stated_as": "David Morris"
+    },
+    "P582": "1999-06-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Seat abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the European Parliament",
+        "Wales (European Parliament constituency)"
+      ],
+      "stated_as": "Member of the European Parliament for Wales"
+    },
+    "P580": "1999-06-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2009-06-04",
+    "P1366": {
+      "links": [
+        "John Bufton"
+      ],
+      "stated_as": "John Bufton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the House of Lords",
+        "Lords Temporal"
+      ],
+      "stated_as": "Member of the House of Lords Lord Temporal"
+    },
+    "P580": "2011-01-26"
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the Senedd",
+        "Mid and West Wales (National Assembly for Wales electoral region)"
+      ],
+      "stated_as": "Member of the Senedd for Mid and West Wales"
+    },
+    "P580": "2016-05-05",
+    "P1365": {
+      "links": [
+        "Rebecca Evans (politician)"
+      ],
+      "stated_as": "Rebecca Evans"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Minister for the Welsh Language"
+    },
+    "P580": "2017-11-03",
+    "P1365": {
+      "links": [
+        "Alun Davies (politician)"
+      ],
+      "stated_as": "Alun Davies"
+    },
+    "P582": "2021-05-13",
+    "P1366": {
+      "links": [
+        "Jeremy Miles"
+      ],
+      "stated_as": "Jeremy Miles"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Minister for Mental Health and Wellbeing"
+    },
+    "P580": "2020-10-08",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2021-05-13",
+    "P1366": {
+      "links": [
+        "Lynne Neagle"
+      ],
+      "stated_as": "Lynne Neagle"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Health and Social Services"
+      ],
+      "stated_as": "Minister for Health and Social Services"
+    },
+    "P580": "2021-05-13",
+    "P1365": {
+      "links": [
+        "Vaughan Gething"
+      ],
+      "stated_as": "Vaughan Gething"
+    }
+  }
+]

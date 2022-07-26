@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Senedd",
+        "Torfaen (National Assembly for Wales constituency)"
+      ],
+      "stated_as": "Member of the Senedd\nfor Torfaen"
+    },
+    "P580": "1999-05-06",
+    "P1365": {
+      "links": [
+        "Government of Wales Act 1998"
+      ],
+      "stated_as": "Office Created"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Deputy Minister for Mental Health and Wellbeing"
+    },
+    "P580": "2021-05-13",
+    "P1365": {
+      "links": [
+        "Eluned Morgan, Baroness Morgan of Ely"
+      ],
+      "stated_as": "The Baroness Morgan of Ely"
+    }
+  }
+]

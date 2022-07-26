@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Senedd",
+        "Merthyr Tydfil and Rhymney (Assembly constituency)"
+      ],
+      "stated_as": "Member of the Senedd\nfor Merthyr Tydfil and Rhymney"
+    },
+    "P580": "2016-05-06",
+    "P1365": {
+      "links": [
+        "Huw Lewis"
+      ],
+      "stated_as": "Huw Lewis"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Deputy Minister for Arts and Sport"
+    },
+    "P580": "2021-05-13",
+    "P1365": {
+      "links": [
+        "Dafydd Elis-Thomas"
+      ],
+      "stated_as": "The Lord Elis-Thomas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Welsh Government Chief Whip"
+    },
+    "P580": "2021-05-13",
+    "P1365": {
+      "links": [
+        "Jane Hutt"
+      ],
+      "stated_as": "Jane Hutt"
+    }
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Senedd",
+        "Llanelli (Senedd constituency)"
+      ],
+      "stated_as": "Member of the Senedd\nfor Llanelli"
+    },
+    "P580": "2016-05-06",
+    "P1365": {
+      "links": [
+        "Keith Davies"
+      ],
+      "stated_as": "Keith Davies"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Deputy Minister for Economy and Transport"
+    },
+    "P580": "2018-12-14",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2021-05-13",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Deputy Minister for Climate Change"
+    },
+    "P580": "2021-05-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    }
+  }
+]

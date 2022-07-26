@@ -1,0 +1,159 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Welsh Assembly",
+        "Mid and West Wales (Senedd Cymru electoral region)"
+      ],
+      "stated_as": "Member of the Welsh Assembly\nfor Mid and West Wales"
+    },
+    "P580": "2011-05-05",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Alun Davies"
+    },
+    "P582": "2016-05-06",
+    "P1366": {
+      "links": [
+        "Eluned Morgan, Baroness Morgan of Ely"
+      ],
+      "stated_as": "Eluned Morgan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Deputy Minister for Farming and Food"
+    },
+    "P580": "2014-07-08",
+    "P1365": {
+      "links": [
+        "Alun Davies (politician)"
+      ],
+      "stated_as": "Alun Davies (Agriculture)"
+    },
+    "P582": "2016-05-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Hannah Blythyn (Minister for the Environment)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the Senedd",
+        "Gower (Senedd Cymru constituency)"
+      ],
+      "stated_as": "Member of the Senedd\nfor Gower"
+    },
+    "P580": "2016-05-06",
+    "P1365": {
+      "links": [
+        "Edwina Hart"
+      ],
+      "stated_as": "Edwina Hart"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Minister for Social Services and Public Health"
+    },
+    "P580": "2016-05-19",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2017-11-03",
+    "P1366": {
+      "links": [
+        "Huw Irranca-Davies"
+      ],
+      "stated_as": "Huw Irranca-Davies (Children and Social Care)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Minister for Housing and Regeneration"
+    },
+    "P580": "2017-11-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2018-12-13",
+    "P1366": {
+      "links": [
+        "Hannah Blythyn"
+      ],
+      "stated_as": "Hannah Blythyn"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Finance (Wales)"
+      ],
+      "stated_as": "Minister for Finance"
+    },
+    "P580": "2018-12-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mark Drakeford"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Trefnydd of the Senedd"
+    },
+    "P580": "2018-12-13",
+    "P1365": {
+      "links": [
+        "Julie James"
+      ],
+      "stated_as": "Julie James"
+    },
+    "P582": "2021-05-13",
+    "P1366": {
+      "links": [
+        "Lesley Griffiths"
+      ],
+      "stated_as": "Lesley Griffiths"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Local Government (Wales)"
+      ],
+      "stated_as": "Minister for Local Government"
+    },
+    "P580": "2021-05-13",
+    "P1365": {
+      "links": [
+        "Julie James"
+      ],
+      "stated_as": "Julie James"
+    }
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Senedd",
+        "Pontypridd (Senedd constituency)"
+      ],
+      "stated_as": "Member of the Senedd\nfor Pontypridd"
+    },
+    "P580": "2011-05-06",
+    "P1365": {
+      "links": [
+        "Jane Davidson"
+      ],
+      "stated_as": "Jane Davidson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Counsel General for Wales"
+      ],
+      "stated_as": "Counsel General for Wales"
+    },
+    "P580": "2016-06-27",
+    "P1365": {
+      "links": [
+        "Theodore Huckle"
+      ],
+      "stated_as": "Theodore Huckle"
+    },
+    "P582": "2017-11-14",
+    "P1366": {
+      "links": [
+        "Jeremy Miles"
+      ],
+      "stated_as": "Jeremy Miles"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Counsel General for Wales"
+      ],
+      "stated_as": "Counsel General for Wales"
+    },
+    "P580": "2021-05-13",
+    "P1365": {
+      "links": [
+        "Jeremy Miles"
+      ],
+      "stated_as": "Jeremy Miles"
+    }
+  }
+]

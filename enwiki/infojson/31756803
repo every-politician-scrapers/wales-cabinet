@@ -1,0 +1,87 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Senedd",
+        "Cardiff South and Penarth (Senedd constituency)"
+      ],
+      "stated_as": "Member of the Senedd\nfor Cardiff South and Penarth"
+    },
+    "P580": "2011-05-06",
+    "P1365": {
+      "links": [
+        "Lorraine Barrett"
+      ],
+      "stated_as": "Lorraine Barrett"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Assembly Government"
+      ],
+      "stated_as": "Deputy Minister for Tackling Poverty"
+    },
+    "P580": "2013-06-26",
+    "P582": "2014-09-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Assembly Government"
+      ],
+      "stated_as": "Deputy Minister for Health"
+    },
+    "P580": "2014-09-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2016-05-19",
+    "P1366": {
+      "links": [
+        "Rebecca Evans (politician)"
+      ],
+      "stated_as": "Rebecca Evans"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Health and Social Services"
+      ],
+      "stated_as": "Minister for Health and Social Services"
+    },
+    "P580": "2016-05-19",
+    "P1365": {
+      "links": [
+        "Mark Drakeford"
+      ],
+      "stated_as": "Mark Drakeford"
+    },
+    "P582": "2021-05-13",
+    "P1366": {
+      "links": [
+        "Eluned Morgan, Baroness Morgan of Ely"
+      ],
+      "stated_as": "The Baroness Morgan of Ely"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for the Economy (Wales)"
+      ],
+      "stated_as": "Minister for the Economy"
+    },
+    "P580": "2021-05-13",
+    "P1365": {
+      "links": [
+        "Ken Skates"
+      ],
+      "stated_as": "Ken Skates"
+    }
+  }
+]
