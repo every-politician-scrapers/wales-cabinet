@@ -1,0 +1,231 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Senedd",
+        "Vale of Glamorgan (Assembly constituency)"
+      ],
+      "stated_as": "Member of the Senedd\nfor Vale of Glamorgan"
+    },
+    "P580": "1999-05-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Health and Social Services"
+      ],
+      "stated_as": "Minister for Health and Social Services"
+    },
+    "P580": "1999-05-12",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2005-09-10",
+    "P1366": {
+      "links": [
+        "Brian Gibbons (politician)"
+      ],
+      "stated_as": "Brian Gibbons"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Leader of the House"
+    },
+    "P580": "2005-09-10",
+    "P1365": {
+      "links": [
+        "Karen Sinclair"
+      ],
+      "stated_as": "Karen Sinclair"
+    },
+    "P582": "2007-07-19",
+    "P1366": {
+      "links": [
+        "Carl Sargeant"
+      ],
+      "stated_as": "Carl Sargeant"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Minister for Equalities and Children"
+    },
+    "P580": "2005-09-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2007-05-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Finance (Wales)"
+      ],
+      "stated_as": "Minister for Finance"
+    },
+    "P580": "2007-05-31",
+    "P1365": {
+      "links": [
+        "Sue Essex"
+      ],
+      "stated_as": "Sue Essex"
+    },
+    "P582": "2007-07-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Andrew Davies"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department for Children, Education, Lifelong Learning and Skills"
+      ],
+      "stated_as": "Minister for Children, Education, Lifelong Learning and Skills"
+    },
+    "P580": "2007-07-19",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Carwyn Jones (Education, Culture and the Welsh Language)"
+    },
+    "P582": "2009-12-10",
+    "P1366": {
+      "links": [
+        "Leighton Andrews"
+      ],
+      "stated_as": "Leighton Andrews (Children, Education and Lifelong Learning)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Leader of the House"
+    },
+    "P580": "2009-12-10",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Carwyn Jones"
+    },
+    "P582": "2017-11-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Julie James"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Finance (Wales)"
+      ],
+      "stated_as": "Minister for Finance"
+    },
+    "P580": "2009-12-10",
+    "P1365": {
+      "links": [
+        "Andrew Davies (Labour politician)"
+      ],
+      "stated_as": "Andrew Davies"
+    },
+    "P582": "2016-05-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mark Drakeford"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Welsh Government Chief Whip"
+    },
+    "P580": "2016-05-19",
+    "P1365": {
+      "links": [
+        "Janice Gregory"
+      ],
+      "stated_as": "Janice Gregory"
+    },
+    "P582": "2017-11-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Julie James"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Welsh Government Chief Whip"
+    },
+    "P580": "2018-12-13",
+    "P1365": {
+      "links": [
+        "Julie James"
+      ],
+      "stated_as": "Julie James"
+    },
+    "P582": "2021-05-13",
+    "P1366": {
+      "links": [
+        "Dawn Bowden"
+      ],
+      "stated_as": "Dawn Bowden"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Minister for Social Justice"
+    },
+    "P580": "2021-05-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    }
+  }
+]

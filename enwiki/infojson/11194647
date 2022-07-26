@@ -1,0 +1,115 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Senedd",
+        "Wrexham (Assembly constituency)"
+      ],
+      "stated_as": "Member of the Senedd\nfor Wrexham"
+    },
+    "P580": "2007-05-03",
+    "P1365": {
+      "links": [
+        "John Marek (politician)"
+      ],
+      "stated_as": "John Marek"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Health and Social Services"
+      ],
+      "stated_as": "Minister for Health and Social Services"
+    },
+    "P580": "2011-05-13",
+    "P1365": {
+      "links": [
+        "Edwina Hart"
+      ],
+      "stated_as": "Edwina Hart"
+    },
+    "P582": "2013-05-14",
+    "P1366": {
+      "links": [
+        "Mark Drakeford"
+      ],
+      "stated_as": "Mark Drakeford"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Minister for Local Government and Government Business"
+    },
+    "P580": "2013-03-14",
+    "P1365": {
+      "links": [
+        "Carl Sargeant"
+      ],
+      "stated_as": "Carl Sargeant"
+    },
+    "P582": "2014-09-11",
+    "P1366": {
+      "links": [
+        "Leighton Andrews",
+        "Jane Hutt"
+      ],
+      "stated_as": "Leighton Andrews (Public Services)\nJane Hutt (Government Business)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Minister for Communities and Tackling Poverty"
+    },
+    "P580": "2014-09-11",
+    "P1365": {
+      "links": [
+        "Jeffrey Cuthbert"
+      ],
+      "stated_as": "Jeffrey Cuthbert"
+    },
+    "P582": "2016-05-19",
+    "P1366": {
+      "links": [
+        "Carl Sargeant"
+      ],
+      "stated_as": "Carl Sargeant"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Minister for Rural Affairs and North Wales"
+    },
+    "P580": "2016-05-19",
+    "P1365": {
+      "links": [
+        "Carl Sargeant"
+      ],
+      "stated_as": "Carl Sargeant"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Trefnydd of the Senedd"
+    },
+    "P580": "2021-05-13",
+    "P1365": {
+      "links": [
+        "Rebecca Evans (politician)"
+      ],
+      "stated_as": "Rebecca Evans"
+    }
+  }
+]

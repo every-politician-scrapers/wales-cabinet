@@ -1,0 +1,107 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (United Kingdom)",
+        "Ogmore (UK Parliament constituency)"
+      ],
+      "stated_as": "Member of Parliament\nfor Ogmore"
+    },
+    "P580": "2002-02-14",
+    "P1365": {
+      "links": [
+        "Ray Powell (Welsh politician)"
+      ],
+      "stated_as": "Ray Powell"
+    },
+    "P582": "2016-03-24",
+    "P1366": {
+      "links": [
+        "Chris Elmore"
+      ],
+      "stated_as": "Chris Elmore"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Parliamentary Under-Secretary of State for Wales"
+      ],
+      "stated_as": "Parliamentary Under-Secretary of State for Wales"
+    },
+    "P580": "2007-07-02",
+    "P1365": {
+      "links": [
+        "Nick Ainger"
+      ],
+      "stated_as": "Nick Ainger"
+    },
+    "P582": "2008-10-05",
+    "P1366": {
+      "links": [
+        "Wayne David"
+      ],
+      "stated_as": "Wayne David"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department for Environment, Food and Rural Affairs"
+      ],
+      "stated_as": "Parliamentary Under-Secretary of State for Marine and Natural Environment"
+    },
+    "P580": "2008-10-05",
+    "P1365": {
+      "links": [
+        "Jonathan Shaw (politician)"
+      ],
+      "stated_as": "Jonathan Shaw"
+    },
+    "P582": "2010-05-06",
+    "P1366": {
+      "links": [
+        "Richard Benyon"
+      ],
+      "stated_as": "Richard Benyon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the Senedd",
+        "Ogmore (Assembly constituency)"
+      ],
+      "stated_as": "Member of the Senedd\nfor Ogmore"
+    },
+    "P580": "2016-05-05",
+    "P1365": {
+      "links": [
+        "Janice Gregory"
+      ],
+      "stated_as": "Janice Gregory"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department for Education and Skills (Wales)"
+      ],
+      "stated_as": "Minister for Children, Older People and Social Care"
+    },
+    "P580": "2017-11-03",
+    "P1365": {
+      "links": [
+        "Rebecca Evans (politician)"
+      ],
+      "stated_as": "Rebecca Evans"
+    },
+    "P582": "2018-12-13",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  }
+]

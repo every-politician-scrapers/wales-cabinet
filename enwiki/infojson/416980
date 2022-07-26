@@ -1,0 +1,56 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament (United Kingdom)",
+        "Cardiff North (UK Parliament constituency)"
+      ],
+      "stated_as": "Member of Parliament\nfor Cardiff North"
+    },
+    "P580": "1997-05-01",
+    "P1365": {
+      "links": [
+        "Gwilym Jones"
+      ],
+      "stated_as": "Gwilym Jones"
+    },
+    "P582": "2010-04-12",
+    "P1366": {
+      "links": [
+        "Jonathan Evans (politician)"
+      ],
+      "stated_as": "Jonathan Evans"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the Senedd",
+        "Cardiff North (Assembly constituency)"
+      ],
+      "stated_as": "Member of the Senedd\nfor Cardiff North"
+    },
+    "P580": "2011-05-05",
+    "P1365": {
+      "links": [
+        "Jonathan Morgan (Welsh politician)"
+      ],
+      "stated_as": "Jonathan Morgan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Deputy Minister for Social Services"
+    },
+    "P580": "2018-12-14",
+    "P1365": {
+      "links": [
+        "Huw Irranca-Davies"
+      ],
+      "stated_as": "Huw Irranca-Davies"
+    }
+  }
+]

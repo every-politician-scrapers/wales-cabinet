@@ -1,0 +1,114 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Senedd",
+        "Cardiff West (Senedd constituency)"
+      ],
+      "stated_as": "Member of the Senedd\nfor Cardiff West"
+    },
+    "P580": "2011-05-05",
+    "P1365": {
+      "links": [
+        "Rhodri Morgan"
+      ],
+      "stated_as": "Rhodri Morgan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Health and Social Services"
+      ],
+      "stated_as": "Minister for Health and Social Services"
+    },
+    "P580": "2013-03-14",
+    "P1365": {
+      "links": [
+        "Lesley Griffiths"
+      ],
+      "stated_as": "Lesley Griffiths"
+    },
+    "P582": "2016-05-19",
+    "P1366": {
+      "links": [
+        "Vaughan Gething"
+      ],
+      "stated_as": "Vaughan Gething"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Finance (Wales)"
+      ],
+      "stated_as": "Cabinet Secretary for Finance"
+    },
+    "P580": "2016-05-19",
+    "P1365": {
+      "links": [
+        "Jane Hutt"
+      ],
+      "stated_as": "Jane Hutt"
+    },
+    "P582": "2018-12-13",
+    "P1366": {
+      "links": [
+        "Rebecca Evans (politician)"
+      ],
+      "stated_as": "Rebecca Evans"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Minister for Brexit"
+    },
+    "P580": "2017-11-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2018-12-13",
+    "P1366": {
+      "links": [
+        "Jeremy Miles"
+      ],
+      "stated_as": "Jeremy Miles"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Labour"
+      ],
+      "stated_as": "Leader of Welsh Labour"
+    },
+    "P580": "2018-12-06",
+    "P1365": {
+      "links": [
+        "Carwyn Jones"
+      ],
+      "stated_as": "Carwyn Jones"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "First Minister of Wales"
+      ],
+      "stated_as": "First Minister of Wales"
+    },
+    "P580": "2018-12-13",
+    "P1365": {
+      "links": [
+        "Carwyn Jones"
+      ],
+      "stated_as": "Carwyn Jones"
+    }
+  }
+]

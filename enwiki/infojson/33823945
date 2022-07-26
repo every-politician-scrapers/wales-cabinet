@@ -1,0 +1,100 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Senedd",
+        "Swansea West (National Assembly for Wales constituency)"
+      ],
+      "stated_as": "Member of the Senedd\nfor Swansea West"
+    },
+    "P580": "2011-05-06",
+    "P1365": {
+      "links": [
+        "Andrew Davies (Labour politician)"
+      ],
+      "stated_as": "Andrew Davies"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Assembly Government"
+      ],
+      "stated_as": "Deputy Minister for Skills and Technology"
+    },
+    "P580": "2014-09-11",
+    "P1365": {
+      "links": [
+        "Ken Skates"
+      ],
+      "stated_as": "Ken Skates"
+    },
+    "P582": "2017-11-03",
+    "P1366": {
+      "links": [
+        "Lee Waters"
+      ],
+      "stated_as": "Lee Waters"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "[[Welsh Assembly Government|Leader of the House\nChief Government Whip]]"
+    },
+    "P580": "2017-11-03",
+    "P1365": {
+      "links": [
+        "Jane Hutt"
+      ],
+      "stated_as": "Jane Hutt"
+    },
+    "P582": "2018-12-13",
+    "P1366": {
+      "links": [
+        "Jane Hutt",
+        "Rebecca Evans (politician)"
+      ],
+      "stated_as": "Jane Hutt &\nRebecca Evans"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Local Government (Wales)"
+      ],
+      "stated_as": "Minister for Housing and Local Government"
+    },
+    "P580": "2018-12-13",
+    "P1365": {
+      "links": [
+        "Alun Davies (politician)"
+      ],
+      "stated_as": "Alun Davies"
+    },
+    "P582": "2021-05-13",
+    "P1366": {
+      "links": [
+        "Rebecca Evans (politician)"
+      ],
+      "stated_as": "Rebecca Evans"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Welsh Government"
+      ],
+      "stated_as": "Minister for Climate Change"
+    },
+    "P580": "2021-05-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    }
+  }
+]
